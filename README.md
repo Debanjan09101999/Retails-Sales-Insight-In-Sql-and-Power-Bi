@@ -28,5 +28,6 @@ This dashboard provides valuable insights into sales performance,  city wise cat
 • Dashboard Design
 
 This project helped me strengthen my data analysis and dashboard development skills while transforming raw data into meaningful business insights
-
+Demo images showing the sales report
+![alt text]()
 
