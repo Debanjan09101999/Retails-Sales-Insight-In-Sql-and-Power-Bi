@@ -29,5 +29,5 @@ This dashboard provides valuable insights into sales performance,  city wise cat
 
 This project helped me strengthen my data analysis and dashboard development skills while transforming raw data into meaningful business insights
 Demo images showing the sales report
-![alt text]()
+![alt text](https://github.com/Debanjan09101999/Retails-Sales-Insight-In-Sql-and-Power-Bi/blob/main/Capture%20in%20power%20bi%2007_06.png)
 
